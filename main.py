@@ -34,7 +34,7 @@ def main():
             break
 
     # Pause pour empêcher la fermeture immédiate de la fenêtre
-    time.sleep(5)  # Attendre 5 secondes (ajuste selon tes besoins)
+    time.sleep(5)  # Attendre 5 secondes
 
 if __name__ == "__main__":
     main()
